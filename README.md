@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I’m currently focusing on **Domain Adaption** Object Detection.
+- 😄 I’m currently focusing on **Domain Adaptation** Object Detection.
 
 
 ![JH Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=h751410234&show_icons=true&theme=tokyonight)
