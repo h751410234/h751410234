@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-😄 I’m currently focusing on **Domain Adaptation** and **Object Detection** in AI-driven perception systems.
+😄 My project primarily focuses on domain adaptation and object detection in AI-driven perception systems.
+😄 I am currently focusing on LLM training.
 
 ---
 
